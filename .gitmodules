@@ -1,0 +1,3 @@
+[submodule "webassets.e"]
+	path = webassets.e
+	url = git@github.com:gravitational/webassets.e.git
