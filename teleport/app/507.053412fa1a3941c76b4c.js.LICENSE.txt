@@ -4,6 +4,20 @@ object-assign
 @license MIT
 */
 
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * @license Angular v14.2.0-next.0
+ * (c) 2010-2022 Google LLC. https://angular.io/
+ * License: MIT
+ */
+
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
